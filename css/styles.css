@@ -70,6 +70,34 @@ ul li {
     font-family: 'Montserrat', sans-serif;
   }
 
+  .experience-section {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+    width: 50%;
+    margin: auto auto auto auto;
+    text-align: left;
+  }
+
+  .exp-title {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+  }
+
+  .exp-location {
+    color: #a6a49f;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.75rem;
+    padding-top: 40px;
+  }
+
+  .exp-duration {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+    padding-top: 40px;
+    width: 20%;
+  }
+
 .top-container {
   background-color: #E4F9F5;
   position: relative;
